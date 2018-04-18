@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>STR_S3_9.JPG</filename>
+	<path>E:\staircase-detection\images\STR_S3_9.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>97</ymin>
+			<xmax>3352</xmax>
+			<ymax>4161</ymax>
+		</bndbox>
+	</object>
+</annotation>
