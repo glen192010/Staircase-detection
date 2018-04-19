@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>STR_S4_77.jpg</filename>
+	<path>E:\staircase-detection\images\STR_S4_77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2618</width>
+		<height>3491</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>698</ymin>
+			<xmax>2596</xmax>
+			<ymax>3435</ymax>
+		</bndbox>
+	</object>
+</annotation>
